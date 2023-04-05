@@ -1,0 +1,16 @@
+This is a to_do_list program that takes user input and stores it it in a textfile inorder to later display it.
+
+
+
+1. user must first enter one task at a time in the textfield
+
+2.the entered task is then displayed in the listbox
+
+3.user may delete a task if they so choose
+
+4. if all tasks have been confirmed the user can click save and all tasks in the
+ list box will be saved to a textfile
+
+5. should the user want to view all recorded tasks later they can click the load button
+
+6. the reset button clears all content on listbox
